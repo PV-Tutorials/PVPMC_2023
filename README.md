@@ -24,7 +24,7 @@ The training session will take place on May 10 from 4 to 6 pm.
 **Hard**
 - [How much gain do you get by using bifacial modules?](https://github.com/PVSC-Python-Tutorials/PVPMC_2023/discussions/11)
 - [Add Orgill and Hollands decomposition model to pvlib](https://github.com/PVSC-Python-Tutorials/PVPMC_2023/discussions/12)
-
+- [What is the impact of soiling on PV performance?](https://github.com/PVSC-Python-Tutorials/PVPMC_2023/discussions/15)
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
