@@ -1,0 +1,28 @@
+0,40.76648039412854  -111.89409177144559,NA,-7,40.75,-111.85,1505,"Data Version: 3.6 / Type: Typical Year / LatLon Resolution: 0.100 / Time Resolution: 60 minutes / Averaging Method: End of Period / TD: No / Copyright 2010-2023 Clean Power Research®, L.L.C. DownloadID=a34a1bae-21c1-46af-89f7-9bb1fbf14b1a"
+Month,Average or Total,1,2,3,4,5,6,7,8,9,10,11,12,Annual
+Global Horizontal Irradiance (GHI) Wh/m2,Total,66350,83107,131354,161523,206328,231972,235063,203613,159631,114938,70657,56052,1720588
+Direct Normal Irradiance (DNI) Wh/m2,Total,102627,104314,142836,157552,199852,249127,252672,223601,200343,165427,113133,91639,2003123
+Diffuse Horizontal Irradiance (DIF) Wh/m2,Total,29643,37168,54024,61634,69387,58543,58565,55604,42113,34361,26483,25287,552812
+Ambient Temperature (deg C),Average,-3.6,-1.9,2,4.7,9.9,16.6,21.9,20.3,14.7,7,0.6,-3.9,7.4
+Wind Speed (m/s),Average,1,1.1,1.3,1.4,1.4,1.5,1.5,1.5,1.4,1.3,1.1,1.1,1.3
+Relative Humidity (%),Average,77,73,65,65,61,50,44,45,52,63,71,78,62
+Liquid Precipitation (kg/m2),Total,26.666,25.113,39.899,56.95,50.648,21.529,18.951,25.14,33.49,42.111,29.389,32.001,401.887
+Solid Precipitation (kg/m2),Total,35.967,33.284,20.954,9.274,1.126,0,0,0,0.005,2.021,16.732,38.186,157.549
+Snow Depth (m),Average,0.099,0.083,0.022,0.003,0,0,0,0,0,0.001,0.015,0.065,0.024
+Albedo,Average,,,,,,,,,,,,,
+Particulate Matter 10 (µg/m3),Average,,,,,,,,,,,,,
+Particulate Matter 2.5 (µg/m3),Average,,,,,,,,,,,,,
+Soiling Losses (%),Average,0.5,0.5,0.4,0.3,0.3,0.4,0.6,0.5,0.4,0.4,0.4,0.4,0.4
+Snow Losses (%),Average,17.6,13.4,5.2,1.7,0,0,0,0,0,0.4,6.2,23.7,4.3
+Plane of Array Irradiance (POAI) Wh/m2,Total,114772,125085,161479,172344,192222,207004,214706,210642,194134,166768,122031,101656,1982842
+
+
+Notes:
+"a. This average year summary is useful for summarizing the climate at a particular location, especially non-irradiance parameters such as albedo and precipitation."
+"b. Average year data alone are not suitable for PV simulations. Please use typical year or time-series data as the primary weather data input for PV simulations."
+"c. The average year totals will not exactly match the typical GHI and DNI year totals (TGY and TDY files)."
+"d. For more information on how typical year files are created, see https://www.solaranywhere.com/resources/satellite-data-methodology/."
+"e. Soiling losses are calculated using the full historical SolarAnywhere time-series data. Soiling losses provided by SolarAnywhere represent atmospheric or regional soiling. Actual soiling losses may vary significantly—even within a single PV plant—due to highly location-specific conditions, such as particulates from nearby agricultural activity or trees. You can learn more about the state of validation and application for these data at https://www.solaranywhere.com/support/solar-energy-modeling-services/soiling-loss-modeling/"
+"f. Snow losses are calculated using the full historical SolarAnywhere time-series data. Modeling of trackers does not include dynamic snow shedding available with some environmentally-aware tracking systems. For more information on how snow loss estimates are generated and applications for this data, visit our support center here: https://www.solaranywhere.com/support/solar-energy-modeling-services/snow-loss-modeling/"
+"g. Snow and soiling loss simulation outputs may change as there are updates to the PV simulation."
+"h. For this simulation: azimuth = 180 degrees, relative row spacing = 2.9, fixed-tilt, tilt = 40 degrees."
