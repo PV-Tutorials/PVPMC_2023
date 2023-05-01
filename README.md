@@ -8,6 +8,7 @@ You do not need to have prior programming experience or Python installed (we'll 
 
 The training session will take place on May 10 from 4 to 6 pm.
 
+**Click here to launch the Colab notebook:** [launch](https://colab.research.google.com/github/PVSC-Python-Tutorials/PVPMC_2023/blob/main/google-colab-introduction.ipynb)
 
 ## Project ideas
 
