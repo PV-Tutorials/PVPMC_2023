@@ -10,23 +10,23 @@ You do not need to have prior programming experience or Python installed (we'll 
 
 The training session will take place on May 10 from 4 to 6 pm.
 
-**Click here to launch the Colab notebook:** [launch](https://colab.research.google.com/github/PVSC-Python-Tutorials/PVPMC_2023/blob/main/google-colab-introduction.ipynb)
+**Click here to launch the Colab notebook:** [launch](https://colab.research.google.com/github/PV-Tutorials/PVPMC_2023/blob/main/google-colab-introduction.ipynb)
 
 ## Project ideas
 
 **Easy**
-- [What is the annual irradiation for Salt Lake City?](https://github.com/PVSC-Python-Tutorials/PVPMC_2023/discussions/7)
+- [What is the annual irradiation for Salt Lake City?](https://github.com/PV-Tutorials/PVPMC_2023/discussions/7)
 
 **Medium**
-- [How much difference is there between irradiance transposition models?](https://github.com/PVSC-Python-Tutorials/PVPMC_2023/discussions/6)
-- [How can PVWatts be emulated using pvlib?](https://github.com/PVSC-Python-Tutorials/PVPMC_2023/discussions/8)
-- [How does the annual irradiance differ year-to-year in SLC?](https://github.com/PVSC-Python-Tutorials/PVPMC_2023/discussions/9)
-- [What is the ideal tilt for a PV system?](https://github.com/PVSC-Python-Tutorials/PVPMC_2023/discussions/10)
+- [How much difference is there between irradiance transposition models?](https://github.com/PV-Tutorials/PVPMC_2023/discussions/6)
+- [How can PVWatts be emulated using pvlib?](https://github.com/PV-Tutorials/PVPMC_2023/discussions/8)
+- [How does the annual irradiance differ year-to-year in SLC?](https://github.com/PV-Tutorials/PVPMC_2023/discussions/9)
+- [What is the ideal tilt for a PV system?](https://github.com/PV-Tutorials/PVPMC_2023/discussions/10)
 
 **Hard**
-- [How much gain do you get by using bifacial modules?](https://github.com/PVSC-Python-Tutorials/PVPMC_2023/discussions/11)
-- [Add Orgill and Hollands decomposition model to pvlib](https://github.com/PVSC-Python-Tutorials/PVPMC_2023/discussions/12)
-- [What is the impact of soiling on PV performance?](https://github.com/PVSC-Python-Tutorials/PVPMC_2023/discussions/15)
+- [How much gain do you get by using bifacial modules?](https://github.com/PV-Tutorials/PVPMC_2023/discussions/11)
+- [Add Orgill and Hollands decomposition model to pvlib](https://github.com/PV-Tutorials/PVPMC_2023/discussions/12)
+- [What is the impact of soiling on PV performance?](https://github.com/PV-Tutorials/PVPMC_2023/discussions/15)
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
